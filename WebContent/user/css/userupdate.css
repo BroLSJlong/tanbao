@@ -1,0 +1,163 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+#toutou{
+	width: 100%;
+	height: 110px;
+}
+.zhong{
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+}
+#toutou .logo{
+	width: 80px;
+	height: 100px;
+}
+#toutou .logo img{
+	width: 200px;
+	height: 200px;
+	margin: 0px 50px;
+}
+#toutou .tou,.logo{
+	float: left;
+}
+#toutou .tou .p1{
+	letter-spacing: 3px;
+	margin-top: 17px;
+	color: #323232;
+	font-size: 36px;
+}
+#toutou .tou .p2{
+	color: #808080;
+	font-size: 12px;
+}
+
+			#div{
+				width: 100%;
+				background: aliceblue;
+			}
+			#div1{
+				position: relative;
+				margin: 0 auto;
+				width: 900px;
+				height: 650px;
+			}
+			.div2{
+				width: 200px;
+				margin-left: 250px;
+			}
+			.div2 h1{
+				position: relative;
+				top: 15px;
+				left: 25px;
+				color: #FF6700;
+			}
+			
+			table{
+				position: absolute;
+				top: 60px;
+				left: 200px;
+			}
+			td{
+				font-size: 14px;
+				height: 15px;
+				padding: 9px;
+			}
+			input{
+				padding: 8px 63px 8px 5px;
+			}
+			.op{
+				height: 100px;
+				width: 41px;
+			}
+			span{
+				font-size: 12px;
+				color: #808080;
+			}
+			.div3{
+				cursor: pointer;
+				bottom: 60px;
+			}
+			.div3 p{
+				color: white;
+				padding: 15px 140px;
+				background: #FF6700;
+				border-radius: 10px;
+			}
+#div3{
+	width: 100%;
+	height: 180px;
+}
+.xia1{
+	position: relative;
+	top: 50px;
+	left: 450px;
+}
+.xia2{
+	position: relative;
+	top: 60px;
+	left: 330px;
+}
+.xia1,.xia2{
+	font-size: 14px;
+	color: #888;
+}
+.xia1 span{
+	margin: 0 10px;
+}
+.xia1 span:hover,.xia2 span:hover{
+	color: #FF6700;
+}
+
+
+
+
+
+
+
+.yi{
+	position: relative;
+	top: 540px;
+}
+.yi span{
+	cursor: pointer;
+	margin: 0 5px;
+	font-size: 14px;
+}
+.yi span:nth-child(2) u,.yi span:nth-child(2) a{
+	color: #FF6700;
+}
+.yi p{
+	color: #808080;
+	text-align: center;
+	font-size: 14px;
+}
+.yi p .s1{
+	color: #FF4900;
+}
+.yi p .s2{
+	color: #2D7CFF;
+}
+
+
+
+.mqb{
+	height:20px;
+	padding: 0;
+}
+.mq{
+	color: #aaa;
+	font-size: 14px;
+}
+.mq label{
+	padding: 0 20px;
+	margin: 0 2px;
+	background: transparent;
+	border: 1px solid #FF6700;
+}
+
